@@ -7,13 +7,13 @@ total harga pesanan hingga mencetak sebuah struk.
 
 ## Anggota Kelompok
 CEO : 
-    - Muhammad Irfan
+- Muhammad Irfan
 Anggota : 
-    - Ikram Muhaimin
-    - Muhammad Shabri Rabbani
-    - Ariq Yudha Pratama
-    - Muhammad Rifki Aufa
-    - Hafizul Akbar
+- Ikram Muhaimin
+- Muhammad Shabri Rabbani
+- Ariq Yudha Pratama
+- Muhammad Rifki Aufa
+- Hafizul Akbar
     
 
 ## Cara Run Program
